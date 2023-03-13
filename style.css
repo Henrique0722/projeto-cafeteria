@@ -149,3 +149,21 @@ ul{
     top: 0;
     right: 0;
 }
+
+.rodape{
+    position: relative;
+    background-color: var(--cor3);
+    color: var(--cor2);
+}
+.rodape p{
+    text-align: center;
+    padding: 10px;
+}
+.rodape a{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 30px;
+    bottom: 50px;
+    opacity: 80%;
+}
