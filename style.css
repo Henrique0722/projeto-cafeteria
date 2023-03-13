@@ -141,6 +141,9 @@ nav a:hover{
     bottom: 50%;
     background-color: #ACACAC;
 }
+ul{
+    padding: 0;
+}
 .lista li p{
     position: absolute;
     top: 0;
