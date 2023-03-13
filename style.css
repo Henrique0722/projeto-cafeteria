@@ -35,7 +35,8 @@ nav a:hover{
     background-attachment: fixed;
     width: 100%;
     background-size: cover;
-    background-position:  center bottom;
+    
+    
 }
 .parallax1{
     background-image: url(assets/parallax-imagem1.png);
@@ -81,6 +82,7 @@ nav a:hover{
 }
 .parallax3{
     background-image: url(assets/parallax-imagem3.jpg);
+    background-position: center bottom;
     height: 300px;
     display: flex;
     flex-direction: row;
