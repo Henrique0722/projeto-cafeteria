@@ -40,6 +40,7 @@ nav a:hover{
 }
 .parallax1{
     background-image: url(assets/parallax-imagem1.png);
+    background-position: center top;
     height: 650px;
     display: flex;
     flex-direction: row;
