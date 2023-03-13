@@ -118,3 +118,31 @@ nav a:hover{
     opacity: 85%;
     margin-bottom:20px ;
 }
+.horarios{
+   padding: 10px;
+    background-image: url(assets/cafeteria.jpg);
+    color: var(--cor2);
+    line-height: 40px;
+}
+.horarios h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.lista li{
+    position: relative;
+}
+.lista li div{
+    width: 50%;
+    height: 1px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    bottom: 50%;
+    background-color: #ACACAC;
+}
+.lista li p{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
